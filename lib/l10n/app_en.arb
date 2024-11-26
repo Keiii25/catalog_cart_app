@@ -1,0 +1,9 @@
+{
+    "categoriesName": "Categories Name",
+    "companyName" : "Company Name",
+    "cart" : "Cart",
+    "clear" : "Clear",
+    "order" : "Order",
+    "total" : "Total",
+    "checkout" : "Checkout"
+}
